@@ -40,7 +40,7 @@ Sinta-se à vontade para entrar em contato:
 
 - Email: [seuemail@exemplo.com]  
 - LinkedIn: [https://www.linkedin.com/in/seu-perfil] *(opcional)*  
-
+- Instagram: @ssabino
 ## 📝 Licença
 
 Este repositório está licenciado sob a licença MIT. Consulte o arquivo `LICENSE` para mais detalhes.
